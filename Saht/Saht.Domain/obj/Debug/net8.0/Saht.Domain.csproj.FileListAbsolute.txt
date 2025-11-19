@@ -1,0 +1,11 @@
+C:\Users\selim\OneDrive\Masaüstü\Saht_Medya\Saht\Saht.Domain\bin\Debug\net8.0\Saht.Domain.deps.json
+C:\Users\selim\OneDrive\Masaüstü\Saht_Medya\Saht\Saht.Domain\bin\Debug\net8.0\Saht.Domain.dll
+C:\Users\selim\OneDrive\Masaüstü\Saht_Medya\Saht\Saht.Domain\bin\Debug\net8.0\Saht.Domain.pdb
+C:\Users\selim\OneDrive\Masaüstü\Saht_Medya\Saht\Saht.Domain\obj\Debug\net8.0\Saht.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selim\OneDrive\Masaüstü\Saht_Medya\Saht\Saht.Domain\obj\Debug\net8.0\Saht.Domain.AssemblyInfoInputs.cache
+C:\Users\selim\OneDrive\Masaüstü\Saht_Medya\Saht\Saht.Domain\obj\Debug\net8.0\Saht.Domain.AssemblyInfo.cs
+C:\Users\selim\OneDrive\Masaüstü\Saht_Medya\Saht\Saht.Domain\obj\Debug\net8.0\Saht.Domain.csproj.CoreCompileInputs.cache
+C:\Users\selim\OneDrive\Masaüstü\Saht_Medya\Saht\Saht.Domain\obj\Debug\net8.0\Saht.Domain.dll
+C:\Users\selim\OneDrive\Masaüstü\Saht_Medya\Saht\Saht.Domain\obj\Debug\net8.0\refint\Saht.Domain.dll
+C:\Users\selim\OneDrive\Masaüstü\Saht_Medya\Saht\Saht.Domain\obj\Debug\net8.0\Saht.Domain.pdb
+C:\Users\selim\OneDrive\Masaüstü\Saht_Medya\Saht\Saht.Domain\obj\Debug\net8.0\ref\Saht.Domain.dll

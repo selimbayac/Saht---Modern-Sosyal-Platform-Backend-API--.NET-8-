@@ -1,0 +1,6 @@
+@Saht.Api_HostAddress = http://localhost:5200
+
+GET {{Saht.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,411 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\selim\\OneDrive\\Masa\u00FCst\u00FC\\Saht_Medya\\Saht\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A700C23-453C-4D11-BB13-88E0F73F8F88}|Saht\\Saht.csproj|c:\\users\\selim\\onedrive\\masa\u00FCst\u00FC\\saht_medya\\saht\\saht\\components\\pages\\postdetail.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A700C23-453C-4D11-BB13-88E0F73F8F88}|Saht\\Saht.csproj|solutionrelative:saht\\components\\pages\\postdetail.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A700C23-453C-4D11-BB13-88E0F73F8F88}|Saht\\Saht.csproj|c:\\users\\selim\\onedrive\\masa\u00FCst\u00FC\\saht_medya\\saht\\saht\\models\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A700C23-453C-4D11-BB13-88E0F73F8F88}|Saht\\Saht.csproj|solutionrelative:saht\\models\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E9ADC7A-B38F-48E1-A8A1-2E2679BFE803}|Saht.Domain\\Saht.Domain.csproj|c:\\users\\selim\\onedrive\\masa\u00FCst\u00FC\\saht_medya\\saht\\saht.domain\\comments\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E9ADC7A-B38F-48E1-A8A1-2E2679BFE803}|Saht.Domain\\Saht.Domain.csproj|solutionrelative:saht.domain\\comments\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D85890-837A-4CAE-B3F6-622FF9000F20}|Saht.Application\\Saht.Application.csproj|c:\\users\\selim\\onedrive\\masa\u00FCst\u00FC\\saht_medya\\saht\\saht.application\\comments\\commentservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D85890-837A-4CAE-B3F6-622FF9000F20}|Saht.Application\\Saht.Application.csproj|solutionrelative:saht.application\\comments\\commentservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D85890-837A-4CAE-B3F6-622FF9000F20}|Saht.Application\\Saht.Application.csproj|c:\\users\\selim\\onedrive\\masa\u00FCst\u00FC\\saht_medya\\saht\\saht.application\\comments\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D85890-837A-4CAE-B3F6-622FF9000F20}|Saht.Application\\Saht.Application.csproj|solutionrelative:saht.application\\comments\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9BE41E-E642-461F-94CE-3B59C76296AD}|Saht.Api\\Saht.Api.csproj|c:\\users\\selim\\onedrive\\masa\u00FCst\u00FC\\saht_medya\\saht\\saht.api\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9BE41E-E642-461F-94CE-3B59C76296AD}|Saht.Api\\Saht.Api.csproj|solutionrelative:saht.api\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A700C23-453C-4D11-BB13-88E0F73F8F88}|Saht\\Saht.csproj|c:\\users\\selim\\onedrive\\masa\u00FCst\u00FC\\saht_medya\\saht\\saht\\components\\pages\\postcard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A700C23-453C-4D11-BB13-88E0F73F8F88}|Saht\\Saht.csproj|solutionrelative:saht\\components\\pages\\postcard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE25A801-B280-4B58-B070-54184EBD328E}|Saht.Infrastructure\\Saht.Infrastructure.csproj|c:\\users\\selim\\onedrive\\masa\u00FCst\u00FC\\saht_medya\\saht\\saht.infrastructure\\repositories\\efuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE25A801-B280-4B58-B070-54184EBD328E}|Saht.Infrastructure\\Saht.Infrastructure.csproj|solutionrelative:saht.infrastructure\\repositories\\efuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D85890-837A-4CAE-B3F6-622FF9000F20}|Saht.Application\\Saht.Application.csproj|c:\\users\\selim\\onedrive\\masa\u00FCst\u00FC\\saht_medya\\saht\\saht.application\\abstractions\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D85890-837A-4CAE-B3F6-622FF9000F20}|Saht.Application\\Saht.Application.csproj|solutionrelative:saht.application\\abstractions\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D85890-837A-4CAE-B3F6-622FF9000F20}|Saht.Application\\Saht.Application.csproj|c:\\users\\selim\\onedrive\\masa\u00FCst\u00FC\\saht_medya\\saht\\saht.application\\comments\\icommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D85890-837A-4CAE-B3F6-622FF9000F20}|Saht.Application\\Saht.Application.csproj|solutionrelative:saht.application\\comments\\icommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A700C23-453C-4D11-BB13-88E0F73F8F88}|Saht\\Saht.csproj|c:\\users\\selim\\onedrive\\masa\u00FCst\u00FC\\saht_medya\\saht\\saht\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A700C23-453C-4D11-BB13-88E0F73F8F88}|Saht\\Saht.csproj|solutionrelative:saht\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A700C23-453C-4D11-BB13-88E0F73F8F88}|Saht\\Saht.csproj|c:\\users\\selim\\onedrive\\masa\u00FCst\u00FC\\saht_medya\\saht\\saht\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A700C23-453C-4D11-BB13-88E0F73F8F88}|Saht\\Saht.csproj|solutionrelative:saht\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A700C23-453C-4D11-BB13-88E0F73F8F88}|Saht\\Saht.csproj|c:\\users\\selim\\onedrive\\masa\u00FCst\u00FC\\saht_medya\\saht\\saht\\services\\postsclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A700C23-453C-4D11-BB13-88E0F73F8F88}|Saht\\Saht.csproj|solutionrelative:saht\\services\\postsclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9BE41E-E642-461F-94CE-3B59C76296AD}|Saht.Api\\Saht.Api.csproj|c:\\users\\selim\\onedrive\\masa\u00FCst\u00FC\\saht_medya\\saht\\saht.api\\controllers\\blogpostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9BE41E-E642-461F-94CE-3B59C76296AD}|Saht.Api\\Saht.Api.csproj|solutionrelative:saht.api\\controllers\\blogpostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9BE41E-E642-461F-94CE-3B59C76296AD}|Saht.Api\\Saht.Api.csproj|c:\\users\\selim\\onedrive\\masa\u00FCst\u00FC\\saht_medya\\saht\\saht.api\\requests\\reactreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9BE41E-E642-461F-94CE-3B59C76296AD}|Saht.Api\\Saht.Api.csproj|solutionrelative:saht.api\\requests\\reactreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D85890-837A-4CAE-B3F6-622FF9000F20}|Saht.Application\\Saht.Application.csproj|c:\\users\\selim\\onedrive\\masa\u00FCst\u00FC\\saht_medya\\saht\\saht.application\\blogs\\blogpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D85890-837A-4CAE-B3F6-622FF9000F20}|Saht.Application\\Saht.Application.csproj|solutionrelative:saht.application\\blogs\\blogpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE25A801-B280-4B58-B070-54184EBD328E}|Saht.Infrastructure\\Saht.Infrastructure.csproj|c:\\users\\selim\\onedrive\\masa\u00FCst\u00FC\\saht_medya\\saht\\saht.infrastructure\\repositories\\efpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE25A801-B280-4B58-B070-54184EBD328E}|Saht.Infrastructure\\Saht.Infrastructure.csproj|solutionrelative:saht.infrastructure\\repositories\\efpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D85890-837A-4CAE-B3F6-622FF9000F20}|Saht.Application\\Saht.Application.csproj|c:\\users\\selim\\onedrive\\masa\u00FCst\u00FC\\saht_medya\\saht\\saht.application\\posts\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D85890-837A-4CAE-B3F6-622FF9000F20}|Saht.Application\\Saht.Application.csproj|solutionrelative:saht.application\\posts\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D85890-837A-4CAE-B3F6-622FF9000F20}|Saht.Application\\Saht.Application.csproj|c:\\users\\selim\\onedrive\\masa\u00FCst\u00FC\\saht_medya\\saht\\saht.application\\posts\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D85890-837A-4CAE-B3F6-622FF9000F20}|Saht.Application\\Saht.Application.csproj|solutionrelative:saht.application\\posts\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9BE41E-E642-461F-94CE-3B59C76296AD}|Saht.Api\\Saht.Api.csproj|c:\\users\\selim\\onedrive\\masa\u00FCst\u00FC\\saht_medya\\saht\\saht.api\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9BE41E-E642-461F-94CE-3B59C76296AD}|Saht.Api\\Saht.Api.csproj|solutionrelative:saht.api\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E9ADC7A-B38F-48E1-A8A1-2E2679BFE803}|Saht.Domain\\Saht.Domain.csproj|c:\\users\\selim\\onedrive\\masa\u00FCst\u00FC\\saht_medya\\saht\\saht.domain\\posts\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E9ADC7A-B38F-48E1-A8A1-2E2679BFE803}|Saht.Domain\\Saht.Domain.csproj|solutionrelative:saht.domain\\posts\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D85890-837A-4CAE-B3F6-622FF9000F20}|Saht.Application\\Saht.Application.csproj|c:\\users\\selim\\onedrive\\masa\u00FCst\u00FC\\saht_medya\\saht\\saht.application\\abstractions\\ipostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D85890-837A-4CAE-B3F6-622FF9000F20}|Saht.Application\\Saht.Application.csproj|solutionrelative:saht.application\\abstractions\\ipostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A700C23-453C-4D11-BB13-88E0F73F8F88}|Saht\\Saht.csproj|c:\\users\\selim\\onedrive\\masa\u00FCst\u00FC\\saht_medya\\saht\\saht\\models\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A700C23-453C-4D11-BB13-88E0F73F8F88}|Saht\\Saht.csproj|solutionrelative:saht\\models\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\OneDrive\\Masa\u00FCst\u00FC\\Saht_Medya\\Saht\\Saht.Domain\\Comments\\Comment.cs",
+              "RelativeDocumentMoniker": "Saht.Domain\\Comments\\Comment.cs",
+              "ToolTip": "C:\\Users\\selim\\OneDrive\\Masa\u00FCst\u00FC\\Saht_Medya\\Saht\\Saht.Domain\\Comments\\Comment.cs",
+              "RelativeToolTip": "Saht.Domain\\Comments\\Comment.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAiwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T23:09:27.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EfUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\OneDrive\\Masa\u00FCst\u00FC\\Saht_Medya\\Saht\\Saht.Infrastructure\\Repositories\\EfUserRepository.cs",
+              "RelativeDocumentMoniker": "Saht.Infrastructure\\Repositories\\EfUserRepository.cs",
+              "ToolTip": "C:\\Users\\selim\\OneDrive\\Masa\u00FCst\u00FC\\Saht_Medya\\Saht\\Saht.Infrastructure\\Repositories\\EfUserRepository.cs",
+              "RelativeToolTip": "Saht.Infrastructure\\Repositories\\EfUserRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwC8AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T22:56:43.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\OneDrive\\Masa\u00FCst\u00FC\\Saht_Medya\\Saht\\Saht.Application\\Abstractions\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Saht.Application\\Abstractions\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\selim\\OneDrive\\Masa\u00FCst\u00FC\\Saht_Medya\\Saht\\Saht.Application\\Abstractions\\IUserRepository.cs",
+              "RelativeToolTip": "Saht.Application\\Abstractions\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T22:55:05.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Comments.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\OneDrive\\Masa\u00FCst\u00FC\\Saht_Medya\\Saht\\Saht.Application\\Comments\\Comments.cs",
+              "RelativeDocumentMoniker": "Saht.Application\\Comments\\Comments.cs",
+              "ToolTip": "C:\\Users\\selim\\OneDrive\\Masa\u00FCst\u00FC\\Saht_Medya\\Saht\\Saht.Application\\Comments\\Comments.cs",
+              "RelativeToolTip": "Saht.Application\\Comments\\Comments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T22:45:39.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CommentService .cs",
+              "DocumentMoniker": "C:\\Users\\selim\\OneDrive\\Masa\u00FCst\u00FC\\Saht_Medya\\Saht\\Saht.Application\\Comments\\CommentService .cs",
+              "RelativeDocumentMoniker": "Saht.Application\\Comments\\CommentService .cs",
+              "ToolTip": "C:\\Users\\selim\\OneDrive\\Masa\u00FCst\u00FC\\Saht_Medya\\Saht\\Saht.Application\\Comments\\CommentService .cs",
+              "RelativeToolTip": "Saht.Application\\Comments\\CommentService .cs",
+              "ViewState": "AgIAALUAAAAAAAAAAAAMwL4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T22:45:33.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICommentService.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\OneDrive\\Masa\u00FCst\u00FC\\Saht_Medya\\Saht\\Saht.Application\\Comments\\ICommentService.cs",
+              "RelativeDocumentMoniker": "Saht.Application\\Comments\\ICommentService.cs",
+              "ToolTip": "C:\\Users\\selim\\OneDrive\\Masa\u00FCst\u00FC\\Saht_Medya\\Saht\\Saht.Application\\Comments\\ICommentService.cs",
+              "RelativeToolTip": "Saht.Application\\Comments\\ICommentService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T22:45:22.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommentDto.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\OneDrive\\Masa\u00FCst\u00FC\\Saht_Medya\\Saht\\Saht\\Models\\CommentDto.cs",
+              "RelativeDocumentMoniker": "Saht\\Models\\CommentDto.cs",
+              "ToolTip": "C:\\Users\\selim\\OneDrive\\Masa\u00FCst\u00FC\\Saht_Medya\\Saht\\Saht\\Models\\CommentDto.cs",
+              "RelativeToolTip": "Saht\\Models\\CommentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T22:44:23.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PostCard.razor",
+              "DocumentMoniker": "C:\\Users\\selim\\OneDrive\\Masa\u00FCst\u00FC\\Saht_Medya\\Saht\\Saht\\Components\\Pages\\PostCard.razor",
+              "RelativeDocumentMoniker": "Saht\\Components\\Pages\\PostCard.razor",
+              "ToolTip": "C:\\Users\\selim\\OneDrive\\Masa\u00FCst\u00FC\\Saht_Medya\\Saht\\Saht\\Components\\Pages\\PostCard.razor",
+              "RelativeToolTip": "Saht\\Components\\Pages\\PostCard.razor",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwBcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-18T22:43:24.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\OneDrive\\Masa\u00FCst\u00FC\\Saht_Medya\\Saht\\Saht\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Saht\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\selim\\OneDrive\\Masa\u00FCst\u00FC\\Saht_Medya\\Saht\\Saht\\Services\\AuthService.cs",
+              "RelativeToolTip": "Saht\\Services\\AuthService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAADwv0QAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T22:43:14.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BlogPostDto.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\OneDrive\\Masa\u00FCst\u00FC\\Saht_Medya\\Saht\\Saht.Application\\Blogs\\BlogPostDto.cs",
+              "RelativeDocumentMoniker": "Saht.Application\\Blogs\\BlogPostDto.cs",
+              "ToolTip": "C:\\Users\\selim\\OneDrive\\Masa\u00FCst\u00FC\\Saht_Medya\\Saht\\Saht.Application\\Blogs\\BlogPostDto.cs",
+              "RelativeToolTip": "Saht.Application\\Blogs\\BlogPostDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADgvxMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T22:35:10.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BlogPostsController.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\OneDrive\\Masa\u00FCst\u00FC\\Saht_Medya\\Saht\\Saht.Api\\Controllers\\BlogPostsController.cs",
+              "RelativeDocumentMoniker": "Saht.Api\\Controllers\\BlogPostsController.cs",
+              "ToolTip": "C:\\Users\\selim\\OneDrive\\Masa\u00FCst\u00FC\\Saht_Medya\\Saht\\Saht.Api\\Controllers\\BlogPostsController.cs",
+              "RelativeToolTip": "Saht.Api\\Controllers\\BlogPostsController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvxkAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T22:35:00.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CommentsController.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\OneDrive\\Masa\u00FCst\u00FC\\Saht_Medya\\Saht\\Saht.Api\\Controllers\\CommentsController.cs",
+              "RelativeDocumentMoniker": "Saht.Api\\Controllers\\CommentsController.cs",
+              "ToolTip": "C:\\Users\\selim\\OneDrive\\Masa\u00FCst\u00FC\\Saht_Medya\\Saht\\Saht.Api\\Controllers\\CommentsController.cs",
+              "RelativeToolTip": "Saht.Api\\Controllers\\CommentsController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowEkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T22:30:47.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReactReq.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\OneDrive\\Masa\u00FCst\u00FC\\Saht_Medya\\Saht\\Saht.Api\\Requests\\ReactReq.cs",
+              "RelativeDocumentMoniker": "Saht.Api\\Requests\\ReactReq.cs",
+              "ToolTip": "C:\\Users\\selim\\OneDrive\\Masa\u00FCst\u00FC\\Saht_Medya\\Saht\\Saht.Api\\Requests\\ReactReq.cs",
+              "RelativeToolTip": "Saht.Api\\Requests\\ReactReq.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T22:30:24.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PostDto.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\OneDrive\\Masa\u00FCst\u00FC\\Saht_Medya\\Saht\\Saht.Application\\Posts\\PostDto.cs",
+              "RelativeDocumentMoniker": "Saht.Application\\Posts\\PostDto.cs",
+              "ToolTip": "C:\\Users\\selim\\OneDrive\\Masa\u00FCst\u00FC\\Saht_Medya\\Saht\\Saht.Application\\Posts\\PostDto.cs",
+              "RelativeToolTip": "Saht.Application\\Posts\\PostDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T22:30:00.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\OneDrive\\Masa\u00FCst\u00FC\\Saht_Medya\\Saht\\Saht.Domain\\Posts\\Post.cs",
+              "RelativeDocumentMoniker": "Saht.Domain\\Posts\\Post.cs",
+              "ToolTip": "C:\\Users\\selim\\OneDrive\\Masa\u00FCst\u00FC\\Saht_Medya\\Saht\\Saht.Domain\\Posts\\Post.cs",
+              "RelativeToolTip": "Saht.Domain\\Posts\\Post.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAxwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T22:22:38.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IPostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\OneDrive\\Masa\u00FCst\u00FC\\Saht_Medya\\Saht\\Saht.Application\\Abstractions\\IPostRepository.cs",
+              "RelativeDocumentMoniker": "Saht.Application\\Abstractions\\IPostRepository.cs",
+              "ToolTip": "C:\\Users\\selim\\OneDrive\\Masa\u00FCst\u00FC\\Saht_Medya\\Saht\\Saht.Application\\Abstractions\\IPostRepository.cs",
+              "RelativeToolTip": "Saht.Application\\Abstractions\\IPostRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T22:19:21.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EFPostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\OneDrive\\Masa\u00FCst\u00FC\\Saht_Medya\\Saht\\Saht.Infrastructure\\Repositories\\EFPostRepository.cs",
+              "RelativeDocumentMoniker": "Saht.Infrastructure\\Repositories\\EFPostRepository.cs",
+              "ToolTip": "C:\\Users\\selim\\OneDrive\\Masa\u00FCst\u00FC\\Saht_Medya\\Saht\\Saht.Infrastructure\\Repositories\\EFPostRepository.cs",
+              "RelativeToolTip": "Saht.Infrastructure\\Repositories\\EFPostRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T22:15:26.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PostService.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\OneDrive\\Masa\u00FCst\u00FC\\Saht_Medya\\Saht\\Saht.Application\\Posts\\PostService.cs",
+              "RelativeDocumentMoniker": "Saht.Application\\Posts\\PostService.cs",
+              "ToolTip": "C:\\Users\\selim\\OneDrive\\Masa\u00FCst\u00FC\\Saht_Medya\\Saht\\Saht.Application\\Posts\\PostService.cs",
+              "RelativeToolTip": "Saht.Application\\Posts\\PostService.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAlwLIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T22:14:47.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\OneDrive\\Masa\u00FCst\u00FC\\Saht_Medya\\Saht\\Saht.Api\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "Saht.Api\\Controllers\\PostsController.cs",
+              "ToolTip": "C:\\Users\\selim\\OneDrive\\Masa\u00FCst\u00FC\\Saht_Medya\\Saht\\Saht.Api\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "Saht.Api\\Controllers\\PostsController.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAIAwwLkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T22:14:14.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostDetail.razor",
+              "DocumentMoniker": "C:\\Users\\selim\\OneDrive\\Masa\u00FCst\u00FC\\Saht_Medya\\Saht\\Saht\\Components\\Pages\\PostDetail.razor",
+              "RelativeDocumentMoniker": "Saht\\Components\\Pages\\PostDetail.razor",
+              "ToolTip": "C:\\Users\\selim\\OneDrive\\Masa\u00FCst\u00FC\\Saht_Medya\\Saht\\Saht\\Components\\Pages\\PostDetail.razor",
+              "RelativeToolTip": "Saht\\Components\\Pages\\PostDetail.razor",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAwEcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-18T22:01:30.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\selim\\OneDrive\\Masa\u00FCst\u00FC\\Saht_Medya\\Saht\\Saht\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Saht\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\selim\\OneDrive\\Masa\u00FCst\u00FC\\Saht_Medya\\Saht\\Saht\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Saht\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-18T22:00:56.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PagedResult.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\OneDrive\\Masa\u00FCst\u00FC\\Saht_Medya\\Saht\\Saht\\Models\\PagedResult.cs",
+              "RelativeDocumentMoniker": "Saht\\Models\\PagedResult.cs",
+              "ToolTip": "C:\\Users\\selim\\OneDrive\\Masa\u00FCst\u00FC\\Saht_Medya\\Saht\\Saht\\Models\\PagedResult.cs",
+              "RelativeToolTip": "Saht\\Models\\PagedResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T22:00:09.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PostsClient.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\OneDrive\\Masa\u00FCst\u00FC\\Saht_Medya\\Saht\\Saht\\Services\\PostsClient.cs",
+              "RelativeDocumentMoniker": "Saht\\Services\\PostsClient.cs",
+              "ToolTip": "C:\\Users\\selim\\OneDrive\\Masa\u00FCst\u00FC\\Saht_Medya\\Saht\\Saht\\Services\\PostsClient.cs",
+              "RelativeToolTip": "Saht\\Services\\PostsClient.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T21:56:18.88Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
